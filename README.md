@@ -31,7 +31,7 @@ The NASA L'Space Team SILAR (Space Ice and Lunar Analysis Reconnaissance) projec
 - `Table of Contents.pdf`: Listed contents of the PDR document.
 - `CustomerConstraints/MissionRequirements.pdf`: Detailed document regarding the spacecraft customer constraints.
 - `Preliminary Design Review Presentation.pdf`: Presentation slides showcased for standing review board presentation. **Note:** All slides(excl. slide 25[Thermal Subsystem - Components]) designed by Catherine Franco.
-- `Standing Review Board Presentation.mp4`: Recorded standing review board led by NASA L'Space mentors, presented on August 18, 2024 by Team SILAR.
+- [Standing Review Board Presentation](https://drive.google.com/file/d/1gWsAY3iNVzIh2TXy8-boYvtRTp2FwQp4/view?usp=sharing): Recorded standing review board led by NASA L'Space mentors, presented on August 18, 2024 by Team SILAR.
 
 ## Previews
 
@@ -45,7 +45,7 @@ Click `Preliminary Design Review Presentation` to see the PDR slides(31 slides).
 
 ### Standing Review Board
 ![SRB preview](https://github.com/user-attachments/assets/4cf7aacf-21a5-45ff-a407-044524488c75)
-Click `Standing Review Board Presentation.mp4` to see the SRB presentation(57:52 minutes duration).
+Visit [Standing Review Board Presentation](https://drive.google.com/file/d/1gWsAY3iNVzIh2TXy8-boYvtRTp2FwQp4/view?usp=sharing) to see the SRB presentation(57:52 minutes duration).
 
 ## Contact
 
